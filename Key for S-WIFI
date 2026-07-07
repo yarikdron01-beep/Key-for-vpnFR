@@ -1,4 +1,4 @@
-#profile-title:SeverCNF WI-FI
+#profile-title:S-WI-FI
 #announce: Данные ключи работают только на WIFI и кабельном соединении 
 📡Only WIFI
 
@@ -14,4 +14,4 @@ vless://02199121-0490-0003-b0c0-7193ce8081aa@ru.monkeyvillage.pro:443?security=r
 vless://02199121-0490-4760-b0c0-7193ce8081aa@se.monkeyvillage.pro:443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyvillage.pro&sid=f76a9b37a4d4a44d#%F0%9F%87%B8%F0%9F%87%AA%20%E2%AB%B8%20%D0%A8%D0%92%D0%95%D0%A6%D0%98%D0%AF%20%E2%AB%B7%20%E2%99%9B%
 vless://02199121-0490-4760-b0c0-7193ce8081aa@de.monkeyvillage.pro:443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.monkeyvillage.pro&sid=8e5000e56f4709df#%F0%9F%87%A9%F0%9F%87%AA%20%E2%AB%B8%20%D0%93%D0%95%D0%A0%D0%9C%D0%90%D0%9D%D0%98%D0%AF%20%E2%AB%B7%20%E2%99%9B%20
 vless://02199121-0490-4760-b0c0-7193ce8081aa@be.monkeyvillage.pro:443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=be.monkeyvillage.pro&sid=6254dd1b09b966b3#%F0%9F%87%A7%F0%9F%87%AA%20%E2%AB%B8%20%D0%91%D0%95%D0%9B%D0%AC%D0%93%D0%98%D0%AF%20%E2%AB%B7%20%E2%99%9B%20
-
+vless://fba43aca-badc-43f2-9c52-2306c6f7cf7f@82.40.49.114:29336?encryption=none&security=none&type=tcp&headerType=none#%E0%BF%96-Server
