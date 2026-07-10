@@ -2,7 +2,6 @@
 #announce: 🛡LTE ВКЛЮЧАТЬ ПРИ БЕЛЫХ СПИСКАХ
 📶Only LTE
 
-
 vless://298b0ba0-31a0-48c8-97c0-d2c372ea9b5a@81.163.23.103:8081?encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=lIL2zH68xPgz1HZecEb-Pr-vaO6SfvRJiniIQHpL_y0&sid=2601&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%B7%F0%9F%87%BA%20LTE%201
 vless://298b0ba0-31a0-48c8-97c0-d2c372ea9b5a@s91553.cdn.ngenix.net:443?encryption=none&security=tls&sni=s91553.cdn.ngenix.net&alpn=http%2F1.1&fp=chrome&allowinsecure=0&type=ws&host=s91553.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F#%F0%9F%87%B7%F0%9F%87%BA%20LTE%202
 vless://a6300f77-fd88-41a5-b0fd-3b57bbca995a@194.55.239.250:443?encryption=none&security=reality&sni=yastatic.ru&fp=firefox&pbk=3yWaaf1TBj82g8QIzmvegzMto2XFcsK6MHdeddBrE0Q&sid=26569042&allowinsecure=0&type=grpc&mode=multi&authority=&serviceName=grpc#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20EU
