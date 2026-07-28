@@ -1,6 +1,7 @@
 #profile-title:❄️Holodno❄️ WI-FI
 #announce: Данные ключи работают только на WIFI и кабельном соединении 
-📡Only WIFI
+📡Only WIFI V2rayTun
+
 
 
 hysteria2://a8f793a5-1876-408c-9375-aa4f1e15724a@2.26.52.128:443?security=tls&fm=%7B%7D&sni=fin1.apexvpn.space#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
@@ -14,3 +15,10 @@ vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@rom.skysafe.online:443?mode=auto&pa
 vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@germ.skysafe.online:2027?security=reality&encryption=none&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=germ.skysafe.online&sid=6ba7b8109dad11d1#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?mode=auto&path=%2Fpatch&security=reality&encryption=none&extra=%7B%22enablePadding%22%3Atrue%2C%22maxConcurrency%22%3A100.0%7D&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&fp=qq&type=xhttp&sni=sp.skysafe.online&sid=6ba7b8109dad11d1#%F0%9F%87%AA%F0%9F%87%B8%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%20YT
 vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@pl.skysafe.online:2027?mode=auto&path=%2Fpatch&security=reality&encryption=none&extra=%7B%22enablePadding%22%3Atrue%2C%22maxConcurrency%22%3A100.0%7D&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&fp=qq&type=xhttp&sni=pl.skysafe.online&sid=6ba7b8109dad11d1#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20YT
+trojan://c7d3ddf6-345e-4616-ba75-d43efc8f9a7a@77.73.131.148:10446?mode=auto&path=%2Fvideo&security=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=yandex.ru&type=xhttp#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%E2%80%A2%203
+trojan://c7d3ddf6-345e-4616-ba75-d43efc8f9a7a@89.169.32.250:10446?mode=auto&path=%2Fvideo&security=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=yandex.ru&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%E2%80%A2%203
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&insecure=0&sni=grape-sos-de.roxa.org#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?security=tls&insecure=0&sni=fr2.h2corp.org#%F0%9F%87%A8%F0%9F%87%A6%20%20Canada%20%20
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?security=tls&insecure=0&sni=fi-one.quiet-rogue.site#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga8.api3-max.ru:443?security=tls&alpn=h3&insecure=0&sni=taga8.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%28VSPBOOST-8%29
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?security=tls&alpn=h3&insecure=0&sni=taga3.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%28VSPBOOST-3%29
